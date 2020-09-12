@@ -1,11 +1,7 @@
 name: environment_ist_course
 
 dependencies:
-  - python=3.4
   - numpy
-  - toolz
   - matplotlib
-  - dill
   - pandas
-  - partd
-  - bokeh
+  - scikit-image
